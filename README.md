@@ -1,0 +1,2 @@
+# ScoutMatch
+Discover which professional footballer plays most like you. ScoutMatch analyzes your football profile using advanced similarity algorithms and compares it with thousands of real players to generate accurate, data-driven matches.
